@@ -1,7 +1,7 @@
-## source 1
-link 1
-## source 2
-link 2
-## source 3
-link 3
+## dataset for food and grocery access
+https://data.virginia.gov/gl/dataset/usda-foodenvironmentatlas-access-and-proximity-to-grocery-store
+## dataset for VA traffic
+https://open-data-pittsylvania.hub.arcgis.com/datasets/VDOT::vdot-bidirectional-traffic-volume-2021/explore?location=37.671466%2C-78.788203%2C6.23
+## Open-AI
+used the Chat-GPT App on laptop to assist in code composition and debugging
 ##... and so on
